@@ -36,21 +36,5 @@ Your uploaded spreadsheet should contain at least three columns:
 
 ---
 
-## 📜 Licenses & Dependencies
-This project operates entirely on permissive open-source software, making it **100% safe to publish on GitHub**:
-
-| Library | License | Primary Purpose |
-| :--- | :--- | :--- |
-| **pyLife** | [Apache-2.0](https://github.com/boschrst/pyLife/blob/main/LICENSE) | Fatigue & Lifetime Assessment |
-| **Streamlit** | [Apache-2.0](https://github.com/streamlit/streamlit/blob/main/LICENSE) | Interactive Web Framework |
-| **pandas** | [3-Clause BSD](https://github.com/pandas-dev/pandas/blob/main/LICENSE) | Data Manipulation |
-| **numpy** | [3-Clause BSD](https://github.com/numpy/numpy/blob/main/LICENSE) | Scientific Computing |
-| **matplotlib** | [Matplotlib License](https://matplotlib.org/stable/users/project/license.html) (BSD-compatible) | Data Plotting |
-| **openpyxl** | [MIT](https://github.com/thebillydev/openpyxl/blob/master/LICENCE) | Excel Parsing |
-
----
-
-## ⚖️ Custom License Recommendation
-For publishing your repository on GitHub, we recommend selecting a highly permissive license that aligns with your dependencies:
-- **MIT License**: Excellent for short, simple, permissive sharing.
-- **Apache License 2.0**: Excellent if you want explicit patent protection and want to align with the base licenses of `pyLife` and `Streamlit`.
+## ⚖️ License
+- **Apache License 2.0** 
