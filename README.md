@@ -1,6 +1,6 @@
 # S-N Curves Maker (pyLife)
 
-An interactive, premium Python application designed to import cyclic fatigue test data from Excel, perform Wöhler (S-N) curve fitting using the **pyLife** library, and export high-resolution, publication-ready **TIFF** files.
+An interactive, Python application designed to import cyclic fatigue test data from Excel, perform Wöhler (S-N) curve fitting using the **pyLife** library, and export high-resolution, publication-ready **TIFF** files.
 
 ---
 
